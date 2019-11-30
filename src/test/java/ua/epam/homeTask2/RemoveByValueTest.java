@@ -1,4 +1,4 @@
-package com.company;
+package ua.epam.homeTask2;
 
 import org.junit.Test;
 import static org.junit.Assert.*;

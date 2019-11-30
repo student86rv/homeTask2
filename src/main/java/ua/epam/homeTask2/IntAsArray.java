@@ -1,4 +1,4 @@
-package com.company;
+package ua.epam.homeTask2;
 
 import java.util.Arrays;
 
